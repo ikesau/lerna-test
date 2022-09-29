@@ -1,6 +1,6 @@
 {
   "name": "server",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "author": "",
   "homepage": "",
@@ -16,8 +16,8 @@
     "build": "webpack"
   },
   "dependencies": {
-    "@ikesau/grapher": "*",
-    "@ikesau/owid-types": "*",
+    "@ikesau/grapher": "^1.0.2",
+    "@ikesau/owid-types": "^1.0.2",
     "@types/react": "^18.0.21",
     "css-loader": "^6.7.1",
     "mini-css-extract-plugin": "^2.6.1",
