@@ -1,7 +1,6 @@
 {
-  "name": "owid-types",
+  "name": "@ikesau/owid-types",
   "version": "0.0.0",
-  "description": "",
   "author": "",
   "homepage": "",
   "license": "ISC",
@@ -18,5 +17,6 @@
   },
   "dependencies": {
     "typescript": "^4.8.4"
-  }
+  },
+  "description": ""
 }
