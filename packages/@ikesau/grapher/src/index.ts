@@ -1,4 +1,4 @@
-import { GrapherConfig } from "owid-types";
+import { GrapherConfig } from "@ikesau/owid-types";
 
 export const title: GrapherConfig["title"] = "Hello";
 

@@ -1,5 +1,5 @@
-import { Grapher, URL } from "grapher";
-import { GrapherConfig } from "owid-types";
+import { Grapher, URL } from "@ikesau/grapher";
+import { GrapherConfig } from "@ikesau/owid-types";
 
 // const title: GrapherConfig["title"] = null; // TypeError
 const title: GrapherConfig["title"] = "I am a title";
