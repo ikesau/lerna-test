@@ -18,5 +18,6 @@
   "dependencies": {
     "typescript": "^4.8.4"
   },
-  "description": ""
+  "description": "",
+  "gitHead": "50c3206dae4a5b05a7fc37dc711493b5c01d9bba"
 }
