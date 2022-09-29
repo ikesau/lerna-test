@@ -1,0 +1,8 @@
+@import "mixins.scss";
+
+$color: rgb(9, 212, 212);
+
+.container {
+  @include padded;
+  background-color: $color;
+}
