@@ -16,10 +16,10 @@
     "build": "tsc"
   },
   "dependencies": {
+    "@ikesau/owid-types": "*",
     "@types/react": "^18.0.21",
     "css-loader": "^6.7.1",
     "mini-css-extract-plugin": "^2.6.1",
-    "owid-types": "*",
     "react": "^18.2.0",
     "sass": "^1.55.0",
     "sass-loader": "^13.0.2",
